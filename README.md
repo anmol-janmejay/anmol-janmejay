@@ -1,5 +1,5 @@
 <div>
-<img align="center" src="https://img.freepik.com/free-photo/illustration-anime-city_23-2151779683.jpg?ga=GA1.1.1314497799.1748527295&semt=ais_hybrid&w=600">
+<img align="center" src="https://img.freepik.com/free-photo/illustration-anime-city_23-2151779683.jpg?ga=GA1.1.1314497799.1748527295&semt=ais_hybrid&w=1050">
 </div>
 
 <br>
