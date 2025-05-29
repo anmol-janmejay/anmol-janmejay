@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Software developer from India</h3
 
 # 💫 About Me:
-Hey, I’m Anmol Janmejay, a B.Tech graduate in ECE, currently deepening my skills in Data Structures, Algorithms, and AI/ML to build intelligent tech solutions.<br>
+A B.Tech graduate in ECE, currently deepening my skills in Data Structures, Algorithms, and AI/ML to build intelligent tech solutions.<br>
 
 
 # 💻 Tech Stack:
