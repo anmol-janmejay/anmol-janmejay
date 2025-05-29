@@ -1,5 +1,5 @@
 <div>
-<img align="center" src="https://i.imgur.com/4ASafy0.png">
+<img align="center" src="[https://i.imgur.com/4ASafy0.png](https://img.freepik.com/free-photo/anime-night-sky-illustration_23-2151684326.jpg?semt=ais_hybrid&w=740)">
 </div>
 
 <br>
