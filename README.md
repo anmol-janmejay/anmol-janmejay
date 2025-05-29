@@ -8,7 +8,10 @@
 <h3 align="center">A passionate Software developer from India</h3
 
 # 💫 About Me:
-A B.Tech graduate in ECE, currently deepening my skills in Data Structures, Algorithms, and AI/ML to build intelligent tech solutions.<br>
+ Enthusiastic and detail-oriented B.Tech student specializing in Artificial Intelligence and Data Science. Passionate about
+ leveraging machine learning and deep learning techniques to solve real-world problems. Strong skills in Python, data
+ analysis, and model development. Eager to contribute to innovative projects and collaborate with like-minded
+ professionals.<br>
 
 
 # 💻 Tech Stack:
