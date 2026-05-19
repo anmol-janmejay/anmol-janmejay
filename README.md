@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">Hi, I'm Anmol Janmejay</h1>
-<h3 align="center">A passionate Software developer from India</h3
+<h3 align="center">A passionate Data Analyst from India</h3
 
 # 💫 About Me:
  Enthusiastic and detail-oriented B.Tech student specializing in Artificial Intelligence and Data Science. Passionate about
